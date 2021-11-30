@@ -1,0 +1,4 @@
+1. An interface used to input and execute commands.
+2. Git is a VCS used for tracking changes during software development.
+   Github is a hosting service used for repositories.
+3. We use github because we will often be working with multiple people, and github allows other people to easily access whatever projects are being worked on.
